@@ -1,0 +1,9 @@
+Package: yt-dlp-gui
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: YourName <you@email.com>
+Depends: python3, python3-tk, python3-pil, python3-mutagen, yt-dlp, aria2
+Description: Advanced YT-DLP GUI downloader
+ A full-featured GUI downloader with batch downloads, ID3 editor, video info preview and more.

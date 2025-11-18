@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+ 
+[Desktop Entry]
+Name=YT-DLP GUI
+Comment=Advanced YouTube Downloader
+Exec=yt-gui.py
+Terminal=false
+Icon=yt-gui
+Type=Application
+Categories=AudioVideo;Network;
